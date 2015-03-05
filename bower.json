@@ -6,10 +6,7 @@
         "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
     ],
     "description": "Console.log with style",
-    "main": [
-        "log.js",
-        "log.min.js"
-    ],
+    "main": "log.js",
     "keywords": [
         "log",
         "console",
